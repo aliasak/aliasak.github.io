@@ -267,8 +267,8 @@ th {
 @font-face {
   font-family: 'Glyphicons Halflings';
 
-  src: url('http://failbocor.luasharapan.com/fonts/glyphicons-halflings-regular.eot');
-  src: url('http://failbocor.luasharapan.com/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('http://failbocor.luasharapan.com/fonts/glyphicons-halflings-regular.woff') format('woff'), url('http://failbocor.luasharapan.com/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('http://failbocor.luasharapan.com/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  src: url('http://aliasak.github.io/fonts/glyphicons-halflings-regular.eot');
+  src: url('http://aliasak.github.io/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('http://failbocor.luasharapan.com/fonts/glyphicons-halflings-regular.woff') format('woff'), url('http://failbocor.luasharapan.com/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('http://failbocor.luasharapan.com/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;
