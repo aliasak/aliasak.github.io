@@ -1642,6 +1642,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
   .landing-page .parallax {
     height: 550px;
   }
+  .landing-page .parallax2 {
+    height: 300px;
+  }
   .landing-page .parallax .parallax-background img {
     width: auto;
     height: 100%;
